@@ -1,0 +1,15 @@
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/bin/Debug/net6.0/Begin_16
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/bin/Debug/net6.0/Begin_16.deps.json
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/bin/Debug/net6.0/Begin_16.runtimeconfig.json
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/bin/Debug/net6.0/Begin_16.dll
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/bin/Debug/net6.0/ref/Begin_16.dll
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/bin/Debug/net6.0/Begin_16.pdb
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/obj/Debug/net6.0/Begin_16.csproj.AssemblyReference.cache
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/obj/Debug/net6.0/Begin_16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/obj/Debug/net6.0/Begin_16.AssemblyInfoInputs.cache
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/obj/Debug/net6.0/Begin_16.AssemblyInfo.cs
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/obj/Debug/net6.0/Begin_16.csproj.CoreCompileInputs.cache
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/obj/Debug/net6.0/Begin_16.dll
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/obj/Debug/net6.0/ref/Begin_16.dll
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/obj/Debug/net6.0/Begin_16.pdb
+/Users/nikitamishunin/Desktop/Zadachi/Begin_16/obj/Debug/net6.0/Begin_16.genruntimeconfig.cache

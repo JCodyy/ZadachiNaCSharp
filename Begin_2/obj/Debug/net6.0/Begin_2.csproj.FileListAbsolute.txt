@@ -1,0 +1,15 @@
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/bin/Debug/net6.0/Begin_2
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/bin/Debug/net6.0/Begin_2.deps.json
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/bin/Debug/net6.0/Begin_2.runtimeconfig.json
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/bin/Debug/net6.0/Begin_2.dll
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/bin/Debug/net6.0/ref/Begin_2.dll
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/bin/Debug/net6.0/Begin_2.pdb
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/obj/Debug/net6.0/Begin_2.csproj.AssemblyReference.cache
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/obj/Debug/net6.0/Begin_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/obj/Debug/net6.0/Begin_2.AssemblyInfoInputs.cache
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/obj/Debug/net6.0/Begin_2.AssemblyInfo.cs
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/obj/Debug/net6.0/Begin_2.csproj.CoreCompileInputs.cache
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/obj/Debug/net6.0/Begin_2.dll
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/obj/Debug/net6.0/ref/Begin_2.dll
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/obj/Debug/net6.0/Begin_2.pdb
+/Users/nikitamishunin/Desktop/Zadachi/Begin_2/obj/Debug/net6.0/Begin_2.genruntimeconfig.cache

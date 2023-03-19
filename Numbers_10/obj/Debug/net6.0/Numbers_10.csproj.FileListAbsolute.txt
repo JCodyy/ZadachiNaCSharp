@@ -1,0 +1,15 @@
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/bin/Debug/net6.0/Numbers_10
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/bin/Debug/net6.0/Numbers_10.deps.json
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/bin/Debug/net6.0/Numbers_10.runtimeconfig.json
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/bin/Debug/net6.0/Numbers_10.dll
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/bin/Debug/net6.0/ref/Numbers_10.dll
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/bin/Debug/net6.0/Numbers_10.pdb
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/obj/Debug/net6.0/Numbers_10.csproj.AssemblyReference.cache
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/obj/Debug/net6.0/Numbers_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/obj/Debug/net6.0/Numbers_10.AssemblyInfoInputs.cache
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/obj/Debug/net6.0/Numbers_10.AssemblyInfo.cs
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/obj/Debug/net6.0/Numbers_10.csproj.CoreCompileInputs.cache
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/obj/Debug/net6.0/Numbers_10.dll
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/obj/Debug/net6.0/ref/Numbers_10.dll
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/obj/Debug/net6.0/Numbers_10.pdb
+/Users/nikitamishunin/Desktop/Zadachi/Numbers_10/obj/Debug/net6.0/Numbers_10.genruntimeconfig.cache

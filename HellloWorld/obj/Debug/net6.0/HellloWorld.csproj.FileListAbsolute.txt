@@ -1,0 +1,15 @@
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/bin/Debug/net6.0/HellloWorld
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/bin/Debug/net6.0/HellloWorld.deps.json
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/bin/Debug/net6.0/HellloWorld.runtimeconfig.json
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/bin/Debug/net6.0/HellloWorld.dll
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/bin/Debug/net6.0/ref/HellloWorld.dll
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/bin/Debug/net6.0/HellloWorld.pdb
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/obj/Debug/net6.0/HellloWorld.csproj.AssemblyReference.cache
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/obj/Debug/net6.0/HellloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/obj/Debug/net6.0/HellloWorld.AssemblyInfoInputs.cache
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/obj/Debug/net6.0/HellloWorld.AssemblyInfo.cs
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/obj/Debug/net6.0/HellloWorld.csproj.CoreCompileInputs.cache
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/obj/Debug/net6.0/HellloWorld.dll
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/obj/Debug/net6.0/ref/HellloWorld.dll
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/obj/Debug/net6.0/HellloWorld.pdb
+/Users/nikitamishunin/Desktop/Zadachi/HellloWorld/obj/Debug/net6.0/HellloWorld.genruntimeconfig.cache
